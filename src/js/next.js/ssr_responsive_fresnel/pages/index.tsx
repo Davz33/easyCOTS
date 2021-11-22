@@ -1,3 +1,8 @@
+/**
+ * @author Davide Vitiello
+ * @author Eloy Durán <eloy.de.enige@gmail.com> Artsy Inc. <engineering@artsymail.com>
+ */
+
 import { Media, MediaContextProvider } from '../media';
 import type {NextPage} from 'next';
 
